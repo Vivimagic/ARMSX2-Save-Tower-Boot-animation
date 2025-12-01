@@ -2,6 +2,7 @@
 For ARMSX2 boot animation for the Android app using fffathur icon design. 
 His git here for the tower can be found here: https://github.com/fffathur/Save-Tower 
 
+![Save Tower_SplashScreen_V5](https://github.com/user-attachments/assets/22758c10-b212-4675-a5ba-364cb88c950d)
 
-![Save Tower_SplashScreen_V5](https://github.com/user-attachments/assets/ab642294-70a5-48bf-b4b8-f4084c7889e9)
+
 
