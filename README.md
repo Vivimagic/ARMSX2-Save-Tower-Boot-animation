@@ -4,5 +4,4 @@ His git for the tower icon can be found here: https://github.com/fffathur/Save-T
 
 ![Save Tower_SplashScreen_V5](https://github.com/user-attachments/assets/22758c10-b212-4675-a5ba-364cb88c950d)
 
-
-
+I have had an problem exporting from AE 2026, as the gradients were not rendering correctly, as of this time it is best to use AE 2025 with the latest Bodymovin plug-in. 
